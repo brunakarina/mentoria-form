@@ -54,4 +54,4 @@ To access the project's layout in Figma click on the link below:
 
 </br>
 
-<h3 align="center">Made with ❤ by Bruna Karina 👋🏻</h3>
+<h4 align="center">Made with ❤ by Bruna Karina 👋🏻</h4>
