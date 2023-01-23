@@ -16,7 +16,7 @@ In this challenge, it was requested to create a desktop form, the main goal was 
 - Pseudo-classes;
 - Validate inputs with html properties.
 
-### 📋 The form can be seen in the image below:
+### 📄 The form can be seen in the image below:
 
 <br/>
 
