@@ -201,3 +201,6 @@ footer .button:hover{
   background: #f74266;
 }
 
+.no-gap {
+  gap: 0px;
+}
