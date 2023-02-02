@@ -16,13 +16,15 @@ In this challenge, it was requested to create a desktop form, the main goal was 
 - Pseudo-classes;
 - Validate inputs with html properties.
 
-### 📋 The form can be seen in the image below:
+### 📄 The form can be seen in the image below:
 
 <br/>
 
 ![preview](./images/preview.png)
 
 ## 🛠 Technologies
+
+</br>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -54,4 +56,4 @@ To access the project's layout in Figma click on the link below:
 
 </br>
 
-<h3 align="center">Made with ❤ by Bruna Karina 👋🏻</h3>
+<h4 align="center">Made with ❤ by Bruna Karina 👋🏻</h4>
